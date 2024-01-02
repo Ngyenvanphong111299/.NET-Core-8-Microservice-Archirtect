@@ -1,4 +1,4 @@
-Simple .NET Core 8 e-commerce website using Microservice architect
+Simple .NET Core 8 e-commerce website using Microservice archirtect
 
 Technical:
 - Project Architect: **Microservice**
